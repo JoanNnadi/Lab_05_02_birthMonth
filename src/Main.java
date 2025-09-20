@@ -16,6 +16,9 @@ public class Main
             System.out.println( " Your birthmoth is: " + birthmonth);
 
         }
+        else {
+            System.out.println(" You entered an incorrect birthmonth value");
+        }
 
 
     }
